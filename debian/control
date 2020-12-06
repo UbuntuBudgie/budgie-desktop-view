@@ -1,0 +1,40 @@
+Source: budgie-desktop-view
+Section: misc
+Priority: optional
+Maintainer: David Mohammed <fossfreedom@ubuntu.com>
+Build-Depends:
+ debhelper (>= 13),
+ debhelper-compat (= 13),
+ libglib2.0-dev (>= 2.64),
+ libgtk-3-dev (>= 3.24.0),
+ meson,
+ valac (>= 0.48.0),
+ intltool
+Standards-Version: 4.5.1
+Vcs-Browser: https://github.com/UbuntuBudgie/budgie-desktop-view/tree/debian
+Vcs-Git: https://github.com/UbuntuBudgie/budgie-desktop-view` -b debian
+Homepage: https://github.com/getsolus/budgie-desktop-view
+Rules-Requires-Root: no
+
+Package: budgie-desktop-view
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Desktop Icons for the Budgie-Desktop
+ Budgie-Desktop is a GTK+ based desktop environment which focuses on
+ simplicity and elegance.  It provides a traditional desktop metaphor
+ based interface utilising customisable panel based menu driven system.
+ Budgie-Desktop is written from scratch utilising many GNOME based
+ sub-systems such as GNOME-Session and Mutter.
+ .
+ Budgie Desktop View provides:
+    Options to enable and access "special" folders such as your Home directory
+    and Trash.
+    Showing active drive / volume mounts (including mounted removable media).
+    An ordered list of Desktop directory contents, prioritizing folders before
+    files while maintaining order of content that respects locales.
+    Independently adjustable icon sizing from your file manager
+    Right-click menu options for the background canvas to quickly access
+    Budgie Desktop and System Settings, as well right-click menu options for
+    opening a file using the default app, or via the Terminal.
+ .
+ Budgie Desktop View is designed for the Budgie Desktop

@@ -1,0 +1,5 @@
+budgie-desktop-view (1.0.2-1) unstable; urgency=medium
+
+  * Initial Release (Closes:#976649)
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Sun, 06 Dec 2020 12:03:47 +0000
