@@ -1,3 +1,11 @@
+budgie-desktop-view (1.0.2-2) UNRELEASED; urgency=medium
+
+  * Packaging Changes:
+    - control: fix spurious character in vcs-git
+    - regenerate man-page without texinfo via help2man --no-info 
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Tue, 08 Dec 2020 23:04:38 +0000
+
 budgie-desktop-view (1.0.2-1) unstable; urgency=medium
 
   * Initial Release (Closes:#976649)
