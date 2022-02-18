@@ -1,3 +1,16 @@
+budgie-desktop-view (1.1.1-2) unstable; urgency=medium
+
+  * Bug fix
+    - Change from gnome-control-center to budgie-control-center
+      0001-Update-to-Budgie-Control-Center.patch
+  * Packaging Changes
+    - control: change Homepage to new upstream
+    - control: Bump StandardsVersion; no changes required
+    - watch: change watch to new upstream
+    - copyright: Bump copyright years, change to new upstream details
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Fri, 18 Feb 2022 11:32:28 +0000
+
 budgie-desktop-view (1.1.1-1) unstable; urgency=medium
 
   * New upstream release

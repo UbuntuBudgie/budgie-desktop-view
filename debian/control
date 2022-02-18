@@ -10,10 +10,10 @@ Build-Depends:
  meson,
  valac (>= 0.48.0),
  intltool
-Standards-Version: 4.5.1
+Standards-Version: 4.6.0
 Vcs-Browser: https://github.com/UbuntuBudgie/budgie-desktop-view/tree/debian
 Vcs-Git: https://github.com/UbuntuBudgie/budgie-desktop-view -b debian
-Homepage: https://github.com/getsolus/budgie-desktop-view
+Homepage: https://github.com/buddiesofbudgie/budgie-desktop-view
 Rules-Requires-Root: no
 
 Package: budgie-desktop-view
