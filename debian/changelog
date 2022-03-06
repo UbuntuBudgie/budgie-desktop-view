@@ -1,4 +1,4 @@
-budgie-desktop-view (1.2.0-1) UNRELEASED; urgency=medium
+budgie-desktop-view (1.2-1) unstable; urgency=medium
 
   [ Debian Janitor ]
   * Use canonical URL in Vcs-Git.
@@ -7,10 +7,13 @@ budgie-desktop-view (1.2.0-1) UNRELEASED; urgency=medium
 
   [ David Mohammed ]
   * New upstream release
+    Fix launching of some file types.
+    Schema change / rebrand from us.getsol to org.buddiesofbudgie
+    Updated to use Budgie Control Center
   * Drop existing patches since included in the new release
   * d/manpage Rename man-page to reflect upstream new name
 
- -- David Mohammed <fossfreedom@ubuntu.com>  Sun, 06 Mar 2022 10:06:37 +0000
+ -- David Mohammed <fossfreedom@ubuntu.com>  Sun, 06 Mar 2022 20:27:48 +0000
 
 budgie-desktop-view (1.1.1-2) unstable; urgency=medium
 
