@@ -6,7 +6,7 @@ Build-Depends:
  debhelper (>= 13),
  debhelper-compat (= 13),
  libglib2.0-dev (>= 2.64),
- libgtk-3-dev (>= 3.24.0),
+ libgtk-3-dev,
  meson,
  valac (>= 0.48.0),
  intltool
