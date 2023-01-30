@@ -1,3 +1,9 @@
+budgie-desktop-view (1.2.1-2ubuntu1) UNRELEASED; urgency=medium
+
+  * Add upstream changelog here
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Mon, 30 Jan 2023 19:47:37 +0000
+
 budgie-desktop-view (1.2-2) unstable; urgency=medium
 
   [ Debian Janitor ]
