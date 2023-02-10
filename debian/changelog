@@ -1,8 +1,15 @@
-budgie-desktop-view (1.2.1-2ubuntu1) UNRELEASED; urgency=medium
+budgie-desktop-view (1.2.1-1) unstable; urgency=medium
 
-  * Add upstream changelog here
+  * New upstream release
+    Handle the new Budgie Desktop Settings desktop file naming
+    Drop -Werror, use werror in Meson project
+    Use arrow instead of HAND1.
+    Implement translations support
+  * Packaging Changes
+    copyright: bump year
+    control: update StandardVersion; no changes required
 
- -- David Mohammed <fossfreedom@ubuntu.com>  Mon, 30 Jan 2023 19:47:37 +0000
+ -- David Mohammed <fossfreedom@ubuntu.com>  Fri, 10 Feb 2023 19:27:39 +0000
 
 budgie-desktop-view (1.2-2) unstable; urgency=medium
 
