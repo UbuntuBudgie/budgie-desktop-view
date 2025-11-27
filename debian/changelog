@@ -1,3 +1,15 @@
+budgie-desktop-view (10.10~preview.1-0ubuntu1) resolute; urgency=medium
+
+  * New upstream release
+    - wayland compatible release for budgie-desktop 10.10
+  * d/control add B/D on libxfce4windowing and gtk-layer-shell
+    remove obsolete debhelper B/D
+    remove obsolete rules-requires-root
+    Bump StandardsVersion - no additional changes required
+  * d/watch update to accommodate preview upstream name
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Thu, 27 Nov 2025 19:39:41 +0000
+
 budgie-desktop-view (1.3-1) unstable; urgency=medium
 
   * New upstream released
