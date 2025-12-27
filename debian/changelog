@@ -1,3 +1,13 @@
+budgie-desktop-view (10.10~preview.2-1) experimental; urgency=medium
+
+  * New upstream release 
+    fix: Adapt to new BCC desktop file name
+    fix: Add 20px spacing to allow the icon label not to overlap the left/right
+    fix: Resolve icons display after a wallpaper change
+    feat: Add support for xfce4-terminal
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Sat, 27 Dec 2025 20:14:12 +0000
+
 budgie-desktop-view (10.10~preview.1-1) experimental; urgency=medium
 
   * New upstream release
