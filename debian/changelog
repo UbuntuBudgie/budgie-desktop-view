@@ -1,3 +1,14 @@
+budgie-desktop-view (10.10.0-1) experimental; urgency=medium
+
+  * New upstream release
+    - upstream has marked this as stable
+  * Add patches to enable drag-drop
+    0002-Add-drag-drop-and-move-capabilities-to-our-desktop-i.patch
+    0003-Cleanup-after-review-lets-be-friendly-with-GLib-func.patch
+    0004-Simplify-the-reading-from-the-config-file.patch
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Sun, 11 Jan 2026 19:31:41 +0000
+
 budgie-desktop-view (10.10~preview.2-1) experimental; urgency=medium
 
   * New upstream release 
