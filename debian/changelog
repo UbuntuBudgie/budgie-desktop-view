@@ -1,3 +1,10 @@
+budgie-desktop-view (10.10.3-1) unstable; urgency=medium
+
+  * New upstream release
+    arbitary positioning with various right click options (Closes: #989642)
+
+ -- David Mohammed <fossfreedom@ubuntu.com>  Tue, 29 Sep 2026 21:19:30 +0100
+
 budgie-desktop-view (10.10.2-2) unstable; urgency=medium
 
   * Upload to unstable now that all budgie components have been assembled
